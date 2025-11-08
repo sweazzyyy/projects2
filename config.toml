@@ -1,0 +1,5 @@
+package_name = "requests"
+repo_url = "https://pypi.org/pypi"
+test_mode = false
+test_repo_path = "test_dependencies.txt"
+output_file = "dependencies_graph.png"
