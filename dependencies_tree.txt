@@ -1,0 +1,16 @@
+Граф зависимостей для: requests
+==================================================
+★ requests
+    └── urllib3
+    └── certifi
+    └── charset-normalizer
+    └── idna
+  urllib3
+    └── brotli
+    └── pyOpenSSL
+  certifi
+  charset-normalizer
+  idna
+  brotli
+  pyOpenSSL
+    └── cryptography
